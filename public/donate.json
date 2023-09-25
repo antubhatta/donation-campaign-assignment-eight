@@ -7,8 +7,8 @@
         "button_bg": "#0052FF33",
         "card_bg_color": "#0052FF26",
         "text_button_bg_color": "#0052FF",
-        "description": "Provide essential medical care and supplies to refugees fleeing conflict zones.",
-        "price": 40
+        "description": "Support our Health Campaign to provide crucial medical assistance to vulnerable communities in crisis. Your donation will help us deliver life-saving supplies, fund medical treatments, and improve healthcare access for those in need. Together, we can make a difference in the lives of individuals facing health challenges, ensuring they receive the care and support they deserve.",
+        "price": 290
       },
       {
         "id": 2,
@@ -18,8 +18,8 @@
         "button_bg": "#FF444A33",
         "card_bg_color": "#FF444A26",
         "text_button_bg_color": "#FF444A",
-        "description": "Empower disadvantaged children with access to quality education and a brighter future.",
-        "price": 30
+        "description": "Empower the next generation through our Education Initiative. Your donation will help us bridge educational disparities by providing underprivileged children with access to quality schooling, essential learning resources, and mentorship programs. Together, we can unlock the potential of young minds, creating a brighter future for them and the communities they represent.",
+        "price": 290
       },
       
     {
@@ -30,8 +30,8 @@
             "button_bg": "#79C233",
             "card_bg_color": "#79C23D26",
             "text_button_bg_color": "#79C23F",
-            "description": "Support our clothing drive to provide clothing to those in need and promote sustainable fashion.",
-            "price": 15
+            "description": "Join our Clothing Drive and make a meaningful impact on the lives of people without adequate clothing. Your contribution will help us distribute warm clothing to homeless individuals during harsh winters, empowering them to stay safe and comfortable. Your support can provide a layer of warmth and dignity to those experiencing homelessness and hardship.",
+            "price": 290
           
     },
     {
@@ -42,8 +42,8 @@
       "button_bg": "#F87133",
       "card_bg_color": "#F8714726",
       "text_button_bg_color": "#F87147",
-      "description": "Support our mission to end hunger by providing nutritious meals to those in need.",
-      "price": 20
+      "description": "Support our mission to end hunger by providing nutritious meals to those in need. Your donation helps us distribute food packages to vulnerable individuals and families, ensuring no one goes to bed hungry. Join us in making a positive impact on hunger!",
+      "price": 290
     },
     {
         "id": 5,
@@ -53,8 +53,8 @@
         "button_bg": "#F87133",
         "card_bg_color": "#F8714726",
         "text_button_bg_color": "#F87147",
-        "description": "Support our mission to end hunger by providing nutritious meals to those in need.",
-        "price": 20
+        "description": "Support our mission to end hunger by providing nutritious meals to those in need. Your donation helps us distribute food packages to vulnerable individuals and families, ensuring no one goes to bed hungry. Join us in making a positive impact on hunger! ",
+        "price": 290
       },
       {
         "id": 6,
@@ -64,8 +64,8 @@
         "button_bg": "#79C233",
         "card_bg_color": "#79C23D26",
         "text_button_bg_color": "#79C23F",
-        "description": "Support our clothing drive to provide clothing to those in need and promote sustainable fashion.",
-        "price": 15
+        "description": "Join our Clothing Drive and make a meaningful impact on the lives of people without adequate clothing. Your contribution will help us distribute warm clothing to homeless individuals during harsh winters, empowering them to stay safe and comfortable. Your support can provide a layer of warmth and dignity to those experiencing homelessness and hardship.",
+        "price": 290
       
 },
     
@@ -77,8 +77,8 @@
     "button_bg": "#FF444A33",
     "card_bg_color": "#FF444A26",
     "text_button_bg_color": "#FF444A",
-    "description": "Empower disadvantaged children with access to quality education and a brighter future.",
-    "price": 30
+    "description": "Empower the next generation through our Education Initiative. Your donation will help us bridge educational disparities by providing underprivileged children with access to quality schooling, essential learning resources, and mentorship programs. Together, we can unlock the potential of young minds, creating a brighter future for them and the communities they represent.",
+    "price": 290
   },
   {
     "id": 8,
@@ -88,8 +88,8 @@
     "button_bg": "#0052FF33",
     "card_bg_color": "#0052FF26",
     "text_button_bg_color": "#0052FF",
-    "description": "Provide essential medical care and supplies to refugees fleeing conflict zones.",
-    "price": 40
+    "description": "Support our Health Campaign to provide crucial medical assistance to vulnerable communities in crisis. Your donation will help us deliver life-saving supplies, fund medical treatments, and improve healthcare access for those in need. Together, we can make a difference in the lives of individuals facing health challenges, ensuring they receive the care and support they deserve.",
+    "price": 290
   },
   {
     "id": 9,
@@ -99,8 +99,8 @@
     "button_bg": "#0052FF33",
     "card_bg_color": "#0052FF26",
     "text_button_bg_color": "#0052FF",
-    "description": "Provide essential medical care and supplies to refugees fleeing conflict zones.",
-    "price": 40
+    "description": "Support our Health Campaign to provide crucial medical assistance to vulnerable communities in crisis. Your donation will help us deliver life-saving supplies, fund medical treatments, and improve healthcare access for those in need. Together, we can make a difference in the lives of individuals facing health challenges, ensuring they receive the care and support they deserve.",
+    "price": 290
   },
   {
     "id": 10,
@@ -110,8 +110,8 @@
     "button_bg": "#FF444A33",
     "card_bg_color": "#FF444A26",
     "text_button_bg_color": "#FF444A",
-    "description": "Empower disadvantaged children with access to quality education and a brighter future.",
-    "price": 30
+    "description": "Empower the next generation through our Education Initiative. Your donation will help us bridge educational disparities by providing underprivileged children with access to quality schooling, essential learning resources, and mentorship programs. Together, we can unlock the potential of young minds, creating a brighter future for them and the communities they represent.",
+    "price": 290
   },
   
 {
@@ -122,8 +122,8 @@
         "button_bg": "#79C233",
         "card_bg_color": "#79C23D26",
         "text_button_bg_color": "#79C23F",
-        "description": "Support our clothing drive to provide clothing to those in need and promote sustainable fashion.",
-        "price": 15
+        "description": "Join our Clothing Drive and make a meaningful impact on the lives of people without adequate clothing. Your contribution will help us distribute warm clothing to homeless individuals during harsh winters, empowering them to stay safe and comfortable. Your support can provide a layer of warmth and dignity to those experiencing homelessness and hardship.",
+        "price": 290
       
 },
 {
@@ -134,7 +134,7 @@
   "button_bg": "#F87133",
   "card_bg_color": "#F8714726",
   "text_button_bg_color": "#F87147",
-  "description": "Support our mission to end hunger by providing nutritious meals to those in need.",
-  "price": 20
+  "description": "Support our mission to end hunger by providing nutritious meals to those in need. Your donation helps us distribute food packages to vulnerable individuals and families, ensuring no one goes to bed hungry. Join us in making a positive impact on hunger!",
+  "price": 290
 }
   ]
