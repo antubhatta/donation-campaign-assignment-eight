@@ -1,0 +1,140 @@
+[
+    {
+        "id": 1,
+        "picture": "campaign4.jpg",
+        "title": "Clean water for children",
+        "category": "Health",
+        "category_bg_color": "#9b59b6",
+        "card_bg_color": "#ffffff",
+        "text_button_bg_color": "#27ae60",
+        "description": "Provide essential medical care and supplies to refugees fleeing conflict zones.",
+        "price": 40
+      },
+      {
+        "id": 2,
+        "picture": "campaign3.jpg",
+        "title": "Good education",
+        "category": "Education",
+        "category_bg_color": "#f39c12",
+        "card_bg_color": "#ffffff",
+        "text_button_bg_color": "#27ae60",
+        "description": "Empower disadvantaged children with access to quality education and a brighter future.",
+        "price": 30
+      },
+      
+    {
+            "id": 3,
+            "picture": "clothing.jpg",
+            "title": "Used Clothing Drive",
+            "category": "Clothing",
+            "category_bg_color": "#e67e22",
+            "card_bg_color": "#ffffff",
+            "text_button_bg_color": "#27ae60",
+            "description": "Support our clothing drive to provide clothing to those in need and promote sustainable fashion.",
+            "price": 15
+          
+    },
+    {
+      "id": 4,
+      "picture": "campaign2.jpg",
+      "title": "Better Food for Everyone",
+      "category": "Food",
+      "category_bg_color": "#e74c3c",
+      "card_bg_color": "#ffffff",
+      "text_button_bg_color": "#27ae60",
+      "description": "Support our mission to end hunger by providing nutritious meals to those in need.",
+      "price": 20
+    },
+    {
+        "id": 5,
+        "picture": "campaign2.jpg",
+        "title": "Better Food for Everyone",
+        "category": "Food",
+        "category_bg_color": "#e74c3c",
+        "card_bg_color": "#ffffff",
+        "text_button_bg_color": "#27ae60",
+        "description": "Support our mission to end hunger by providing nutritious meals to those in need.",
+        "price": 20
+      },
+      {
+        "id": 6,
+        "picture": "clothing.jpg",
+        "title": "Used Clothing Drive",
+        "category": "Clothing",
+        "category_bg_color": "#e67e22",
+        "card_bg_color": "#ffffff",
+        "text_button_bg_color": "#27ae60",
+        "description": "Support our clothing drive to provide clothing to those in need and promote sustainable fashion.",
+        "price": 15
+      
+},
+    
+{
+    "id": 7,
+    "picture": "campaign3.jpg",
+    "title": "Good education",
+    "category": "Education",
+    "category_bg_color": "#f39c12",
+    "card_bg_color": "#ffffff",
+    "text_button_bg_color": "#27ae60",
+    "description": "Empower disadvantaged children with access to quality education and a brighter future.",
+    "price": 30
+  },
+  {
+    "id": 8,
+    "picture": "campaign4.jpg",
+    "title": "Clean water for children",
+    "category": "Health",
+    "category_bg_color": "#9b59b6",
+    "card_bg_color": "#ffffff",
+    "text_button_bg_color": "#27ae60",
+    "description": "Provide essential medical care and supplies to refugees fleeing conflict zones.",
+    "price": 40
+  },
+  {
+    "id": 9,
+    "picture": "campaign4.jpg",
+    "title": "Clean water for children",
+    "category": "Health",
+    "category_bg_color": "#9b59b6",
+    "card_bg_color": "#ffffff",
+    "text_button_bg_color": "#27ae60",
+    "description": "Provide essential medical care and supplies to refugees fleeing conflict zones.",
+    "price": 40
+  },
+  {
+    "id": 10,
+    "picture": "campaign3.jpg",
+    "title": "Good education",
+    "category": "Education",
+    "category_bg_color": "#f39c12",
+    "card_bg_color": "#ffffff",
+    "text_button_bg_color": "#27ae60",
+    "description": "Empower disadvantaged children with access to quality education and a brighter future.",
+    "price": 30
+  },
+  
+{
+        "id": 11,
+        "picture": "clothing.jpg",
+        "title": "Used Clothing Drive",
+        "category": "Clothing",
+        "category_bg_color": "#e67e22",
+        "card_bg_color": "#ffffff",
+        "text_button_bg_color": "#27ae60",
+        "description": "Support our clothing drive to provide clothing to those in need and promote sustainable fashion.",
+        "price": 15
+      
+},
+{
+  "id": 12,
+  "picture": "campaign2.jpg",
+  "title": "Better Food for Everyone",
+  "category": "Food",
+  "category_bg_color": "#e74c3c",
+  "card_bg_color": "#ffffff",
+  "text_button_bg_color": "#27ae60",
+  "description": "Support our mission to end hunger by providing nutritious meals to those in need.",
+  "price": 20
+}
+  ]
