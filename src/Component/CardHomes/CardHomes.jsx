@@ -29,7 +29,7 @@ const CardHomes = () => {
     return (
         <div className="container mx-auto">
             <Banner onSearch={handleSearch} />
-            <div className="mt-16 grid grid-cols-1 px-6 lg:px-0 md:grid-cols-2 mb-14 lg:mb-32 lg:grid-cols-4 gap-6">
+            <div className="mt-14 grid grid-cols-1 px-6 lg:px-0 md:grid-cols-2 mb-14 lg:mb-32 lg:grid-cols-4 gap-6">
                 {filteredCard.map((donation) => (
                     <CardHome key={donation.id} card={donation}></CardHome>
                 ))}

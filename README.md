@@ -7,4 +7,4 @@
 
 - Interactive Pie Chart: The Statistics page features an interactive pie chart that visually represents donation percentages, simplifying the understanding of donation distribution.
 
--Color-Coded Styling: Cards and buttons are color-coded, enhancing visual consistency and aiding user navigation by associating colors with categories and actions.
+- Color-Coded Styling: Cards and buttons are color-coded, enhancing visual consistency and aiding user navigation by associating colors with categories and actions.
