@@ -5,6 +5,7 @@ import Donations from "../Donations/donations";
 
 const Donation = () => {
     const [donation,setDonation]=useState([])
+    const [dataLength,setDataLength]=useState(4)
     const donate=useLoaderData()
    
 
@@ -26,11 +27,16 @@ const Donation = () => {
        
     },[donate])
     return (
-        <div className="container mx-auto">
-            <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 mb-40 pt-[170px]">
+        <div className="container mx-auto mb-40">
+            <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 pt-[170px]">
                 {
-                    donation.map((donate,idx)=><Donations key={idx} donates={donate}></Donations>)
+                    donation.slice(0,dataLength).map((donate,idx)=><Donations key={idx} donates={donate}></Donations>)
                 }
+            </div>
+            <div className={dataLength===donation.length && 'hidden'}>
+            <div className="mt-10 flex justify-center">
+                <button onClick={()=>setDataLength(donation.length)} className="text-[#FFF] bg-[#009444] text-base font-semibold py-4 px-7 rounded-lg">See All</button>
+            </div>
             </div>
         </div>
     );
