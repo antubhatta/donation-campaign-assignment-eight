@@ -27,15 +27,15 @@ const Donation = () => {
        
     },[donate])
     return (
-        <div className="container mx-auto mb-40">
-            <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 pt-[170px]">
+        <div className="container mx-auto mb-14 lg:mb-40">
+            <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 pt-[140px] lg:pt-[170px] px-6 lg:px-0">
                 {
                     donation.slice(0,dataLength).map((donate,idx)=><Donations key={idx} donates={donate}></Donations>)
                 }
             </div>
             <div className={dataLength===donation.length && 'hidden'}>
             <div className="mt-10 flex justify-center">
-                <button onClick={()=>setDataLength(donation.length)} className="text-[#FFF] bg-[#009444] text-base font-semibold py-4 px-7 rounded-lg">See All</button>
+                <button onClick={()=>setDataLength(donation.length)} className="text-[#FFF] bg-[#009444] text-base font-semibold py-2 px-4 lg:py-4 lg:px-7 rounded-lg">See All</button>
             </div>
             </div>
         </div>

@@ -8,7 +8,7 @@
         "card_bg_color": "#0052FF26",
         "text_button_bg_color": "#0052FF",
         "description": "Support our Health Campaign to provide crucial medical assistance to vulnerable communities in crisis. Your donation will help us deliver life-saving supplies, fund medical treatments, and improve healthcare access for those in need. Together, we can make a difference in the lives of individuals facing health challenges, ensuring they receive the care and support they deserve.",
-        "price": 290
+        "price": 320
       },
       {
         "id": 2,
@@ -19,7 +19,7 @@
         "card_bg_color": "#FF444A26",
         "text_button_bg_color": "#FF444A",
         "description": "Empower the next generation through our Education Initiative. Your donation will help us bridge educational disparities by providing underprivileged children with access to quality schooling, essential learning resources, and mentorship programs. Together, we can unlock the potential of young minds, creating a brighter future for them and the communities they represent.",
-        "price": 290
+        "price": 300
       },
       
     {
@@ -27,7 +27,7 @@
             "img": "https://i.ibb.co/WnM3wkn/Clothing.png",
             "title": "Used Clothing Drive",
             "category": "Clothing",
-            "button_bg": "#79C233",
+            "button_bg": "#79c23f33",
             "card_bg_color": "#79C23D26",
             "text_button_bg_color": "#79C23F",
             "description": "Join our Clothing Drive and make a meaningful impact on the lives of people without adequate clothing. Your contribution will help us distribute warm clothing to homeless individuals during harsh winters, empowering them to stay safe and comfortable. Your support can provide a layer of warmth and dignity to those experiencing homelessness and hardship.",
@@ -39,99 +39,99 @@
       "img": "https://i.ibb.co/0DnggdV/Food.png",
       "title": "Better Food for Everyone",
       "category": "Food",
-      "button_bg": "#F87133",
+      "button_bg": "#f8714733",
       "card_bg_color": "#F8714726",
       "text_button_bg_color": "#F87147",
       "description": "Support our mission to end hunger by providing nutritious meals to those in need. Your donation helps us distribute food packages to vulnerable individuals and families, ensuring no one goes to bed hungry. Join us in making a positive impact on hunger!",
-      "price": 290
+      "price": 210
     },
     {
         "id": 5,
         "img": "https://i.ibb.co/0DnggdV/Food.png",
-        "title": "Better Food for Everyone",
+        "title": "Healthy Eating Essentials",
         "category": "Food",
-        "button_bg": "#F87133",
+        "button_bg": "#f8714733",
         "card_bg_color": "#F8714726",
         "text_button_bg_color": "#F87147",
         "description": "Support our mission to end hunger by providing nutritious meals to those in need. Your donation helps us distribute food packages to vulnerable individuals and families, ensuring no one goes to bed hungry. Join us in making a positive impact on hunger! ",
-        "price": 290
+        "price": 220
       },
       {
         "id": 6,
         "img": "https://i.ibb.co/WnM3wkn/Clothing.png",
-        "title": "Used Clothing Drive",
+        "title": "Sustainable Fashion Choices",
         "category": "Clothing",
-        "button_bg": "#79C233",
+        "button_bg": "#79c23f33",
         "card_bg_color": "#79C23D26",
         "text_button_bg_color": "#79C23F",
         "description": "Join our Clothing Drive and make a meaningful impact on the lives of people without adequate clothing. Your contribution will help us distribute warm clothing to homeless individuals during harsh winters, empowering them to stay safe and comfortable. Your support can provide a layer of warmth and dignity to those experiencing homelessness and hardship.",
-        "price": 290
+        "price": 230
       
 },
     
 {
     "id": 7,
     "img": "https://i.ibb.co/9cZX4J3/Rectangle-4288.png",
-    "title": "Good education",
+    "title": "Global Education Trends Report",
     "category": "Education",
     "button_bg": "#FF444A33",
     "card_bg_color": "#FF444A26",
     "text_button_bg_color": "#FF444A",
     "description": "Empower the next generation through our Education Initiative. Your donation will help us bridge educational disparities by providing underprivileged children with access to quality schooling, essential learning resources, and mentorship programs. Together, we can unlock the potential of young minds, creating a brighter future for them and the communities they represent.",
-    "price": 290
+    "price": 240
   },
   {
     "id": 8,
     "img": "https://i.ibb.co/nnfgwsz/Health.png",
-    "title": "Clean water for children",
+    "title": "Holistic Health and Wellness",
     "category": "Health",
     "button_bg": "#0052FF33",
     "card_bg_color": "#0052FF26",
     "text_button_bg_color": "#0052FF",
     "description": "Support our Health Campaign to provide crucial medical assistance to vulnerable communities in crisis. Your donation will help us deliver life-saving supplies, fund medical treatments, and improve healthcare access for those in need. Together, we can make a difference in the lives of individuals facing health challenges, ensuring they receive the care and support they deserve.",
-    "price": 290
+    "price": 250
   },
   {
     "id": 9,
     "img": "https://i.ibb.co/nnfgwsz/Health.png",
-    "title": "Clean water for children",
+    "title": "Medical Breakthroughs Digest",
     "category": "Health",
     "button_bg": "#0052FF33",
     "card_bg_color": "#0052FF26",
     "text_button_bg_color": "#0052FF",
     "description": "Support our Health Campaign to provide crucial medical assistance to vulnerable communities in crisis. Your donation will help us deliver life-saving supplies, fund medical treatments, and improve healthcare access for those in need. Together, we can make a difference in the lives of individuals facing health challenges, ensuring they receive the care and support they deserve.",
-    "price": 290
+    "price": 260
   },
   {
     "id": 10,
     "img": "https://i.ibb.co/9cZX4J3/Rectangle-4288.png",
-    "title": "Good education",
+    "title": "Pedagogy for Modern Learners",
     "category": "Education",
     "button_bg": "#FF444A33",
     "card_bg_color": "#FF444A26",
     "text_button_bg_color": "#FF444A",
     "description": "Empower the next generation through our Education Initiative. Your donation will help us bridge educational disparities by providing underprivileged children with access to quality schooling, essential learning resources, and mentorship programs. Together, we can unlock the potential of young minds, creating a brighter future for them and the communities they represent.",
-    "price": 290
+    "price": 270
   },
   
 {
         "id": 11,
         "img": "https://i.ibb.co/WnM3wkn/Clothing.png",
-        "title": "Used Clothing Drive",
+        "title": "Fashion Trends and Styles",
         "category": "Clothing",
-        "button_bg": "#79C233",
+        "button_bg": "#79c23f33",
         "card_bg_color": "#79C23D26",
         "text_button_bg_color": "#79C23F",
         "description": "Join our Clothing Drive and make a meaningful impact on the lives of people without adequate clothing. Your contribution will help us distribute warm clothing to homeless individuals during harsh winters, empowering them to stay safe and comfortable. Your support can provide a layer of warmth and dignity to those experiencing homelessness and hardship.",
-        "price": 290
+        "price": 280
       
 },
 {
   "id": 12,
   "img": "https://i.ibb.co/0DnggdV/Food.png",
-  "title": "Better Food for Everyone",
+  "title": "Culinary World Explorations",
   "category": "Food",
-  "button_bg": "#F87133",
+  "button_bg": "#f8714733",
   "card_bg_color": "#F8714726",
   "text_button_bg_color": "#F87147",
   "description": "Support our mission to end hunger by providing nutritious meals to those in need. Your donation helps us distribute food packages to vulnerable individuals and families, ensuring no one goes to bed hungry. Join us in making a positive impact on hunger!",

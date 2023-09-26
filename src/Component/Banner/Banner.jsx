@@ -4,7 +4,7 @@ const Banner = () => {
     return (
         <div className="relative">
             
-            <div className="bg-[url('/bg.jfif')] h-[600px] bg-center flex flex-col gap-12 items-center justify-center bg-cover">
+            <div className="bg-[url('/bg.jfif')] h-[400px] lg:h-[600px] bg-center flex flex-col gap-12 items-center justify-center bg-cover">
                 <div className="absolute inset-0 w-full h-full bg-white/95"></div>
             <h2 className="text-2xl md:text-3xl z-10 lg:text-5xl font-bold text-center text-black">I Grow By Helping People In Need</h2>
 

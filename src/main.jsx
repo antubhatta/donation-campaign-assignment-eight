@@ -8,9 +8,9 @@ import {
 import Root from './Component/Root/Root';
 import Home from './Component/Home/Home';
 import Donation from './Component/Donation/Donation';
-import Statistics from './Component/Statistics/Statistics';
 import CardDetails from './Component/CardDetails/CardDetails';
 import ErrorPage from './Component/ErrorPage/ErrorPage';
+import StatisticsPage from './Component/Statistics/Statistics';
 
 const router = createBrowserRouter([
   {
@@ -29,7 +29,7 @@ const router = createBrowserRouter([
       },
       {
         path:"/statistics",
-        element:<Statistics></Statistics>
+        element:<StatisticsPage></StatisticsPage>
       },
       {
         path:"/details/:id",
