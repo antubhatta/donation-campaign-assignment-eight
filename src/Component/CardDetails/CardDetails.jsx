@@ -16,7 +16,7 @@ const CardDetails = () => {
     return (
         <div className="pt-[140px] lg:pt-[170px] px-6 lg:px-0 container mx-auto relative">
            <div className="relative">
-           <img className="w-full rounded-lg" src={cardDetails.img} alt="" />
+           <img className="w-full object-cover rounded-lg" src={cardDetails.img} alt="" />
 
            <div className="absolute bottom-0 left-0 w-full h-auto md:h-[150px] bg-[#0B0B0B80] flex items-center">
             <Link ><button onClick={handleDonate} style={{backgroundColor:cardDetails.text_button_bg_color}} className="text-sm lg:text-base ml-8 text-[#FFF] font-semibold px-4 py-3 lg:px-6 lg:py-4">Donate ${cardDetails.price}</button></Link>

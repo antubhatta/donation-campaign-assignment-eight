@@ -1,8 +1,8 @@
-# React + Vite
+## Feature in donation campaign assignment
+ - Responsive Design: The website adapts seamlessly to various devices and screen sizes, ensuring a consistent user experience on desktops, tablets, and smartphones.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- Dynamic Navigation Bar: The website features a responsive navigation bar that displays the website logo and menu items, with active route highlighting for easy navigation.
 
-Currently, two official plugins are available:
+- Interactive Donation Cards: The homepage showcases 12 interactive donation cards, each uniquely styled with background colors for cards, categories, and text elements, enhancing user engagement. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Interactive Pie Chart: The Statistics page features an interactive pie chart that visually represents donation percentages, simplifying the understanding of donation distribution.
