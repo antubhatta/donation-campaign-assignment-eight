@@ -6,3 +6,5 @@
 - Interactive Donation Cards: The homepage showcases 12 interactive donation cards, each uniquely styled with background colors for cards, categories, and text elements, enhancing user engagement. 
 
 - Interactive Pie Chart: The Statistics page features an interactive pie chart that visually represents donation percentages, simplifying the understanding of donation distribution.
+
+-Color-Coded Styling: Cards and buttons are color-coded, enhancing visual consistency and aiding user navigation by associating colors with categories and actions.

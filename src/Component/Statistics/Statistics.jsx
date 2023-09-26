@@ -1,10 +1,7 @@
 
-import { PieChart, Pie, Cell } from "recharts";
+import { PieChart, Pie, Cell, ResponsiveContainer } from "recharts";
+import { getStoredDonation } from "../LocalStorage/LocalStorage";
 
-const data = [
-  { name: "Group A", value: 400 },
-  { name: "Group B", value: 300 },
-];
 
 const COLORS = ["#FF444A", "#00C49F"];
 
@@ -21,6 +18,9 @@ const renderCustomizedLabel = ({
   const x = cx + radius * Math.cos(-midAngle * RADIAN);
   const y = cy + radius * Math.sin(-midAngle * RADIAN);
 
+
+  
+
   return (
     <text
       x={x}
@@ -34,13 +34,23 @@ const renderCustomizedLabel = ({
   );
 };
 export default function StatisticsPage() {
+    const storedData = getStoredDonation();
+
+    const data = [
+        { name: "Total Donation", value: 12 - storedData.length },
+        { name: "Your Donation", value: storedData.length },
+      ];
+
   return (
-   <div className="w-full h-auto  lg:h-screen flex flex-col items-center justify-center">
-     <PieChart width={400} height={400}>
+  
+    <div className="min-h-screen flex flex-col items-center pt-24 md:pt-32">
+      <div className="w-full md:w-1/2 lg:w-1/3 xl:w-1/4">
+    <ResponsiveContainer width="100%" height={500} >
+     <PieChart>
       <Pie
         data={data}
-        cx={200}
-        cy={200}
+        cx="50%"
+        cy="50%"
         labelLine={false}
         label={renderCustomizedLabel}
         outerRadius={150}
@@ -52,7 +62,9 @@ export default function StatisticsPage() {
         ))}
       </Pie>
     </PieChart>
-    <div className="flex gap-5 md:gap-14">
+    </ResponsiveContainer>
+    </div>
+    <div className="flex gap-5 pb-10 md:gap-14">
         <div className="flex gap-2 items-center">
             <h4 className="text-sm lg:text-lg text-[#0B0B0B]">Your Donation</h4>
             <div className="w-[70px] md:w-[100px] h-[12px] rounded-sm bg-[#00C49F]"></div>

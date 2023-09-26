@@ -5,7 +5,7 @@ const ErrorPage = () => {
     return (
         <div className="flex flex-col text-center gap-4 items-center mt-[100px] lg:mt-[300px]">
             <h2 className="text-3xl lg:text-5xl text-red-400 font-bold">Oops!</h2>
-      <p className="text-xl font-medium">Page {error.statusText || error.message}</p>
+      <p className="text-xl font-medium">404- Page {error.statusText || error.message}</p>
       {
         error.status === 404 && <div>
             <p className="text-base lg:text-xl">Sorry, the page you are looking for does not exist.</p>
