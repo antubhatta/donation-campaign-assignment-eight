@@ -43,7 +43,7 @@ export default function StatisticsPage() {
 
   return (
   
-    <div className="min-h-screen flex flex-col items-center pt-24 md:pt-32">
+    <div className="min-h-screen flex flex-col items-center pt-16 md:pt-20">
       <div className="w-full md:w-1/2 lg:w-1/3 xl:w-1/4">
     <ResponsiveContainer width="100%" height={500} >
      <PieChart>
@@ -64,7 +64,7 @@ export default function StatisticsPage() {
     </PieChart>
     </ResponsiveContainer>
     </div>
-    <div className="flex gap-5 pb-10 md:gap-14">
+    <div className="flex gap-5 -mt-10  md:gap-14">
         <div className="flex gap-2 items-center">
             <h4 className="text-sm lg:text-lg text-[#0B0B0B]">Your Donation</h4>
             <div className="w-[70px] md:w-[100px] h-[12px] rounded-sm bg-[#00C49F]"></div>

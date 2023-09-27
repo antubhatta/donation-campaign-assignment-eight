@@ -9,7 +9,7 @@ const Header = () => {
             <Link to="/">
                 <img className='w-[150px] md:w-auto' src={logo} alt="" />
             </Link>
-            <div className='flex text-sm gap-3 md:gap-12 md:text-xl'>
+            <div className='flex text-sm gap-3 lg:gap-12 md:text-xl'>
                 <NavLink to="/" className={({ isActive, isPending }) =>isPending ? "pending" : isActive ? "text-[#FF444A] underline" : "" }>Home</NavLink>
                 <NavLink to="/donation" className={({ isActive, isPending }) =>isPending ? "pending" : isActive ? "text-[#FF1F3D] underline" : "" }>Donation</NavLink>
                 <NavLink to="/statistics" className={({ isActive, isPending }) =>isPending ? "pending" : isActive ? "text-[#FF1F3D] underline" : "" }>Statistics</NavLink>

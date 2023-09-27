@@ -15,10 +15,10 @@ const Banner = ({ onSearch }) => {
                 style={{ position: "relative" }}
             >
                 <div className="absolute inset-0 w-full h-full bg-white/95"></div>
-                <h2 className="text-2xl md:text-3xl z-10 lg:text-5xl font-bold text-center text-black">I Grow By Helping People In Need</h2>
+                <h2 className="text-xl md:text-3xl z-10 lg:text-5xl font-bold text-center text-black">I Grow By Helping People In Need</h2>
                 <div className="flex z-10 items-center h-[50px] justify-center">
                     <input
-                        className="rounded-tl-lg rounded-bl-lg border border-solid border-[#11111126] md:w-[300px] lg:w-[420px] mb-6 outline-none py-4 pl-4"
+                        className="rounded-tl-lg rounded-bl-lg border border-solid border-[#11111126] md:w-[300px] lg:w-[420px] mb-6 outline-none ml-5 lg:ml-0 py-4 pl-4"
                         placeholder="Search here..."
                         type="text"
                         value={searchQuery}
