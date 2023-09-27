@@ -43,7 +43,7 @@ export default function StatisticsPage() {
 
   return (
   
-    <div className="min-h-screen flex flex-col items-center pt-16 md:pt-20">
+    <div className="min-h-screen flex flex-col items-center pt-16 md:pt-24 lg:pt-44">
       <div className="w-full md:w-1/2 lg:w-1/3 xl:w-1/4">
     <ResponsiveContainer width="100%" height={500} >
      <PieChart>
